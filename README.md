@@ -82,6 +82,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * [Hands-On Functional Programming in Rust](https://www.amazon.com/dp/1788839358) - Andrew Johnson
 
 ## Videos
+* [Learning Rust](https://www.packtpub.com/application-development/learning-rust-video) - Leo Tindall
 
 ### Playlists
 
