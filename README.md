@@ -57,8 +57,8 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * [Rust Essentials](https://www.packtpub.com/application-development/rust-essentials) - Ivo Balbaert
 * :soon: [Programming Rust](http://shop.oreilly.com/product/0636920040385.do) - [Jim Blandy][]
 * :soon: [Rust Programming Step-by-Step](https://www.gitbook.com/book/carlomilanesi/rust-programming-step-by-step/) - Carlo Milanesi
-* :star: [Rust Programming Cookbook](https://www.packtpub.com/programming/rust-programming-cookbook?utm_source=rust-lang.org&utm_medium=referral&utm_campaign=OutreachB11749) - [Claus Matzinger][]
-
+* :star: [Rust Programming Cookbook](https://www.packtpub.com/programming/rust-programming-cookbook?utm_source=rust-lang.org&utm_medium=referral&utm_campaign=OutreachB11749) - Claus Matzinger.
+ 
 ## Videos
 
 You can watch Rust's meetups at [air.mozilla](https://air.mozilla.org/channels/rust/)
@@ -77,7 +77,7 @@ You can watch Rust's meetups at [air.mozilla](https://air.mozilla.org/channels/r
 * :star: [Rust and the Future of Systems Programming](https://www.youtube.com/playlist?list=PLo3w8EB99pqJ74XIGe72c9hBZWz9Y16cY) - Mozilla
 * [Mozilla's Rust and why we love it](http://blog.cambridgeconsultants.com/wireless-product-development/presentation-mozillas-rust-and-why-we-love-it/) - Cambridge Consultants
 * [Rust 101](https://www.youtube.com/watch?v=FMqydRampuo) - E. Dunham
-* :star: [Rust Programming Recipes [Video]](https://www.packtpub.com/programming/rust-programming-recipes-video?utm_source=%20rust-lang.org%20&utm_medium=referral&utm_campaign=OutreachV14217) - [Matt Stoodley][]
+* :star: [Rust Programming Recipes [Video]](https://www.packtpub.com/programming/rust-programming-recipes-video?utm_source=%20rust-lang.org%20&utm_medium=referral&utm_campaign=OutreachV14217) - Matt Stoodley.
 
 ## Podcasts
 
